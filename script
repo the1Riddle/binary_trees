@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#a script that will create the files we need
+
+for i in {0..18};
+do
+	filename="${i}-main.c"
+	touch "$filename"
+done
