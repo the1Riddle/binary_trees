@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#a script that will create the files we need
+#a script that will create all the alx test files we need
 
 for i in {0..18};
 do
