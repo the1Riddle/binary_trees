@@ -1,5 +1,13 @@
-# Binary Trees
+# <p align="center">BINARY TREES</p>
 
+Brief Explanation:
+----------------------------------
+
+A binary tree is a data structure in which each node can have at most two children, typically referred to as the "left" and "right" children. The top node of the tree is called the "root," and it's the starting point for navigating the tree. Nodes in a binary tree are organized in a hierarchical manner, where each node can have zero, one, or two child nodes. <be>
+<br>
+Binary trees are commonly used in computer science and programming to efficiently store and manipulate hierarchical data, such as in search algorithms, expression parsing, and data organization. They provide a way to represent hierarchical relationships in a structured manner.
+
+![Untitled](https://github.com/the1Riddle/binary_trees/assets/125451537/1c5d4113-e2e1-46ad-a0a9-a7956fc7eeda)
 
 Data structures
 -----------------------------------
