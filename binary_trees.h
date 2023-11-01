@@ -35,6 +35,10 @@ typedef struct binary_tree_s heap_t;
 
 void binary_tree_print(const binary_tree_t *);
 
+/******************************* OTHER PROTOTYPES ****************************/
+
+int check_is_tree_leaf(const binary_tree_t *node);
+
 /******************************* Mandatory Tasks *****************************/
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
