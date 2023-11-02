@@ -5,7 +5,7 @@
  *
  * Return: 1 if the node is a leaf or 0 if not
  */
-int check_is_tree_leaf(const binary_tree_t *node)
+/*int check_is_tree_leaf(const binary_tree_t *node)
 {
         if (node != NULL && !node->left && !node->right)
         {
@@ -13,7 +13,7 @@ int check_is_tree_leaf(const binary_tree_t *node)
         }
         return (0);
 }
-
+*/
 /**
  * binary_tree_node - a function that creates a binary tree node
  * @parent: A pointer to the parent node
